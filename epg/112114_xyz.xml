@@ -51246,6 +51246,9 @@
 	<programme channel="newtv金牌综艺" start="20260801043500 +0800" stop="20260801050500 +0800">
 		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20260801050500 +0800" stop="20260801055000 +0800">
+		<title lang="zh">19_密战无声</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
