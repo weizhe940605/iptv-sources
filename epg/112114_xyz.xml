@@ -59415,6 +59415,9 @@
 	<programme channel="newtv超级电影" start="20260811105300 +0800" stop="20260811122400 +0800">
 		<title lang="zh">举起手来2：追击阿多丸号</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260811122400 +0800" stop="20260811141500 +0800">
+		<title lang="zh">三重世界</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59465,6 +59468,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260811114400 +0800" stop="20260811123000 +0800">
 		<title lang="zh">09_问心2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260811123000 +0800" stop="20260811131600 +0800">
+		<title lang="zh">10_问心2</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60071,6 +60077,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260811120200 +0800" stop="20260811123200 +0800">
 		<title lang="zh">清心糕好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260811123200 +0800" stop="20260811131500 +0800">
+		<title lang="zh">35_风暴舞</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
