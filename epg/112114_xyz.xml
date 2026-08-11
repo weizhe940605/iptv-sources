@@ -59394,6 +59394,9 @@
 	<programme channel="newtv超级电影" start="20260811091700 +0800" stop="20260811105300 +0800">
 		<title lang="zh">军火厂</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260811105300 +0800" stop="20260811122400 +0800">
+		<title lang="zh">举起手来2：追击阿多丸号</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59438,6 +59441,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260811101100 +0800" stop="20260811105800 +0800">
 		<title lang="zh">07_问心2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260811105800 +0800" stop="20260811114400 +0800">
+		<title lang="zh">08_问心2</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
