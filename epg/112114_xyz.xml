@@ -16545,6 +16545,9 @@
 	<programme channel="咪咕综合体育" start="20260812040000 +0800" stop="20260812053500 +0800">
 		<title lang="zh">UFC格斗之夜279期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260812054000 +0800" stop="20260812094000 +0800">
+		<title lang="zh">2025第十二届浪琴表北京国际马术大师赛第二日2</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -50451,6 +50454,9 @@
 	<programme channel="newtv超级电影" start="20260812040300 +0800" stop="20260812053600 +0800">
 		<title lang="zh">特工艾米拉</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260812053600 +0800" stop="20260812070300 +0800">
+		<title lang="zh">晨星</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50474,6 +50480,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260812044400 +0800" stop="20260812053000 +0800">
 		<title lang="zh">27_我为出嫁狂</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260812053000 +0800" stop="20260812061500 +0800">
+		<title lang="zh">28_我为出嫁狂</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51044,6 +51053,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260812042000 +0800" stop="20260812050400 +0800">
 		<title lang="zh">39_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260812050400 +0800" stop="20260812054800 +0800">
+		<title lang="zh">40_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
