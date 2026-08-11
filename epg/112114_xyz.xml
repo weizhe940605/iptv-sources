@@ -17676,6 +17676,9 @@
 	<programme channel="咪咕综合体育" start="20260811130000 +0800" stop="20260811130500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260811130500 +0800" stop="20260811141000 +0800">
+		<title lang="zh">国球荣耀-2026WTT美国大满贯 女单决赛 孙颖莎-蒯曼</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -59481,6 +59484,9 @@
 	<programme channel="newtv超级电视剧" start="20260811123000 +0800" stop="20260811131600 +0800">
 		<title lang="zh">10_问心2</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260811131600 +0800" stop="20260811140100 +0800">
+		<title lang="zh">35_赛小花的远大前程</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60089,6 +60095,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260811123200 +0800" stop="20260811131500 +0800">
 		<title lang="zh">35_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260811131500 +0800" stop="20260811134500 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
