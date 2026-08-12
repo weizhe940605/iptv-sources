@@ -50424,6 +50424,9 @@
 	<programme channel="newtv金牌综艺" start="20260813034400 +0800" stop="20260813042800 +0800">
 		<title lang="zh">44_秋蝉</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20260813042800 +0800" stop="20260813045800 +0800">
+		<title lang="zh">杏花村好物推荐</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
