@@ -59163,6 +59163,9 @@
 	<programme channel="newtv超级电视剧" start="20260815085500 +0800" stop="20260815094100 +0800">
 		<title lang="zh">11_纯真年代的爱情</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260815094100 +0800" stop="20260815102700 +0800">
+		<title lang="zh">23_问心2</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
