@@ -59493,6 +59493,9 @@
 	<programme channel="newtv金牌综艺" start="20260818102900 +0800" stop="20260818105900 +0800">
 		<title lang="zh">五香带鱼罐头好物推荐</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20260818105900 +0800" stop="20260818114400 +0800">
+		<title lang="zh">25_孤战</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
