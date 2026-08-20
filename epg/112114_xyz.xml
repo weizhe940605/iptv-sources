@@ -17922,6 +17922,9 @@
 	<programme channel="咪咕综合体育" start="20260820092500 +0800" stop="20260820101000 +0800">
 		<title lang="zh">世界杯精华</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260820101500 +0800" stop="20260820115500 +0800">
+		<title lang="zh">中超来噜-2026赛季中超 第23轮 辽宁铁人楠波湾-深圳新鹏城</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -59927,6 +59930,9 @@
 	</programme>
 	<programme channel="newtv超级综艺" start="20260820084300 +0800" stop="20260820095300 +0800">
 		<title lang="zh">沧海运河谣</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260820095300 +0800" stop="20260820111000 +0800">
+		<title lang="zh">全民畅舞</title>
 	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
