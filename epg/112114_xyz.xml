@@ -60708,6 +60708,9 @@
 	<programme channel="newtv金牌综艺" start="20260820131100 +0800" stop="20260820135600 +0800">
 		<title lang="zh">01_潜行者</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20260820135600 +0800" stop="20260820143100 +0800">
+		<title lang="zh">美国云杉新一代肾康动力黄金肽-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
