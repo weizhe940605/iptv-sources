@@ -17598,6 +17598,9 @@
 	<programme channel="咪咕足球" start="20260823115000 +0800" stop="20260823120000 +0800">
 		<title lang="zh">绝对独家对话邱彪</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260823120000 +0800" stop="20260823120500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -59435,6 +59438,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260823103100 +0800" stop="20260823120000 +0800">
 		<title lang="zh">实况录像-2026法国超级杯 朗斯-巴黎圣日耳曼</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260823120000 +0800" stop="20260823123500 +0800">
+		<title lang="zh">体坛快讯</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
