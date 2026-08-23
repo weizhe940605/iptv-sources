@@ -12753,6 +12753,9 @@
 	<programme channel="咪咕足球" start="20260824000500 +0800" stop="20260824013500 +0800">
 		<title lang="zh">2026中国男篮系列热身赛 第一场 中国男篮-塞尔维亚FMP俱乐部</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260824013500 +0800" stop="20260824015000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -41801,6 +41804,9 @@
 	</programme>
 	<programme channel="newtv超级综艺" start="20260824005000 +0800" stop="20260824012800 +0800">
 		<title lang="zh">01_闪耀的她</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260824012800 +0800" stop="20260824020800 +0800">
+		<title lang="zh">02_闪耀的她</title>
 	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
